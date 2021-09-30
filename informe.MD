@@ -8,8 +8,10 @@ Ejercicio Practico:
 2. [Crear rama:](#2)	    
 3. [Generar archivos rama:](#3)	  
 4. [Generar archivos main:](#4)	  
-5. [mergear:](#5)	  
-Ejercicio practico de comandos de git  
+5. [mergear:](#5)	    
+
+
+## Ejercicio practico de comandos de git  
 
 ### 1. Crear repositorio <a name="1"></a>
 Inicializamos el repositorio y le añadimos el readme y el origen remoto:  
