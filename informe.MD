@@ -6,11 +6,9 @@ Ejercicio Practico:
 ## Indice
 1. [Crear repositorio:](#1)  
 2. [Crear rama:](#2)	    
-    2.1 [Instalación de Git con paquetes predeterminados:](#3)	    
-    2.2 [Instalación de Git desde la fuente:](#4)	    
-3. [Generar archivos rama:](#5)	  
-4. [Generar archivos main:](#6)	  
-5. [mergear:](#7)	  
+3. [Generar archivos rama:](#3)	  
+4. [Generar archivos main:](#4)	  
+5. [mergear:](#5)	  
 Ejercicio practico de comandos de git  
 
 1. Crear repositorio <a name="1"></a>
